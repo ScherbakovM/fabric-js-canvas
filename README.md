@@ -1,4 +1,5 @@
-# fabric_js_canvas
+# Интерактивный холст для совместной работы 
+# построенный на базе библеотеки [fabric js](http://fabricjs.com/)
 
 Для работы с проектом необходимо установить [node js ](https://nodejs.org/en/download/)
 
